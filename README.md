@@ -34,7 +34,7 @@ unsloth_compiled_cache/
 
 ### Option 1 — Clone directly as your cache folder
 ```bash
-git clone https://github.com/.../unsloth_compiled_cache unsloth_compiled_cache
+git clone https://github.com/SnowNetwork/unsloth_compiled_cache unsloth_compiled_cache
 ```
 
 Then run your training script from the same directory. Unsloth will detect and use the existing cache instead of recompiling.
